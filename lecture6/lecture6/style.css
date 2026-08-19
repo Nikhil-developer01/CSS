@@ -1,0 +1,53 @@
+.harishchandra{
+    background-image: url("img1.jpg");
+    height:120vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.name1{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    background: linear-gradient(red,white,green);
+}
+.matheran{
+    background-image: url("matheran.jpg");
+    height:120vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.name2{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    background: linear-gradient(green,yellow,orange)
+}
+.kalsubai{
+    background-image: url("Kalasubai.jpg");
+    height:120vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.name3{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    background: radial-gradient(white,green,darkred)
+}
+.raigad{
+    background-image: url("raigad.jpg");
+    height:120vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
