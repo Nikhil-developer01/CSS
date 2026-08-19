@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+div{
+    display: inline-block;
+    height: 50px;
+    width: 120px;
+    background-color: cadetblue;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;    
+}
