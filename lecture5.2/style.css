@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+}
+.parent{
+    margin-bottom: 10px;
+    height: 600px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.child{
+    text-align: center;
+    align-content: center;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: chartreuse;
+}
+.task2{
+    justify-content: center;
+    align-items: start;
+}
+.task3{
+    justify-content: end;
+    align-items: start;
+}
+.task4{
+    justify-content: start;
+    align-items: center;
+}
+.task5{
+    justify-content: center;
+    align-items: center;
+}
+.task6{
+    justify-content: end;
+    align-items: center;
+}
+.task7{
+    justify-content: start;
+    align-items: end;
+}
+.task8{
+    justify-content: center;
+    align-items: end;
+}
+.task9{
+    justify-content: end;
+    align-items: end;
+}
