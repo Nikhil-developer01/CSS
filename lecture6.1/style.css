@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.navbar {
+    width: 100%;
+    background: #4844b8;
+    min-height: 75px;
+
+    display: flex;
+    align-items: center;          /* Vertically center */
+    justify-content: space-between; /* One row with space */
+    padding: 0 20px;
+}
+
+.logo {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+.u-name h2{
+    color: white;
+}
+.profile img {
+    margin: 10px 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.menu-bar{
+    margin: 100px;
+    border: 1px solid rgb(227, 217, 217);
+    height: 600px;
+    width: 300px;
+    background-color: white ;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.menu-bar p{
+    font-size: 26px;
+    margin: 20px;
+    color: grey;
+}
+.sidebar-footer {
+    font-size: 24px;
+    color: grey;
+    margin: 22px;
+}
+.john-smith{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: flex;
+}
+.d-flex{
+    display: flex;
+}
+.sellers{
+    height: 600px;
+    width: 100%;
+    font-size: 26px;
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+}
